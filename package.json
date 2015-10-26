@@ -1,0 +1,36 @@
+{
+  "name": "char-subsets",
+  "version": "0.1.0",
+  "description": "Lists of characters of common subsets (like Google Fonts API uses them)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strarsis/char-subsets.git"
+  },
+  "author": "strarsis <strarsis@gmail.com> (https://github.com/strarsis/char-subsets)",
+  "keywords": [
+    "char",
+    "chars",
+    "charlist",
+    "charlists",
+    "unicode",
+    "common",
+    "charset",
+    "charsets",
+    "subset",
+    "subsets",
+    "google fonts"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "eol": "^0.2.0"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/strarsis/char-subsets/issues"
+  },
+  "homepage": "https://github.com/strarsis/char-subsets#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
