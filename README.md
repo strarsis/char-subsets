@@ -1,6 +1,8 @@
 # char-subsets
 Lists of characters of common subsets (like Google Fonts API uses them)
 
+[![david](https://david-dm.org/strarsis/char-subsets.svg)](https://david-dm.org/strarsis/char-subsets)
+
 Usage
 -----
 ````
