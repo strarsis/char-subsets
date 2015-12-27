@@ -12,7 +12,7 @@ npm install char-subets
 var subsets = require('char-subsets')();
 console.dir(subsets);
 ````
-yields an array with subset name (as used in Google Fonts API) per key and their unicode characters
+yields an array with subset name per key and their unicode characters
 ``` js
 [ greek: '\n !"#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£¤¥¦§¨©ª«¬®¯°±²³´µ¶·¸¹º»¼½¾¿Æ×ØÞßæð÷øþıŒœˆ˚˜΄΅·ΓΔΘΛΞΠΣΦΨΩαβγδεζηθιλξπρςστυφψωϑϒϖ–—‘’‚“”„•‹›⁄⁴€− ­ÐÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÑÒÓÔÕÖÙÚÛÜÝàáâãäåçèéêëìíîïñòóôõöùúûüýÿΆΈΉΊΌΎΏΐΑΒΕΖΗΙΚΜΝΟΡΤΥΧΪΫάέήίΰκομνχϊϋόύώ',
   'greek-ext': '\n !"#$%&\'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~¡¢£¤¥¦§¨©ª«¬®¯°±²³´µ¶·¸¹º»¼½¾¿Æ×ØÞßæð÷øþıŒœˆ˚˜΄΅·ΓΔΘΛΞΠΣΦΨΩαβγδεζηθιλξπρςστυφψωϑϒϖ–—‘’‚“”„•‹›⁄⁴€− ­ÐÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÑÒÓÔÕÖÙÚÛÜÝàáâãäåçèéêëìíîïñòóôõöùúûüýÿΆΈΉΊΌΎΏΐΑΒΕΖΗΙΚΜΝΟΡΤΥΧΪΫάέήίΰκομνχϊϋόύώὍ',
@@ -25,6 +25,8 @@ yields an array with subset name (as used in Google Fonts API) per key and their
 
 Available subsets
 -----------------
+(as used in Google Fonts API)
+
 - greek
 - greek-ext
 - latin
