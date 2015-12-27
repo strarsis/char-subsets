@@ -40,3 +40,5 @@ Accessing array keys containing '-':
 ``` js
 subsets['latin-ext']
 ````
+
+It is also trivially possible to convert the unicode characters into unicode points.
