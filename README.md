@@ -5,7 +5,7 @@ Lists of characters of common subsets (like Google Fonts API uses them)
 
 Usage
 -----
-````
+```sh
 npm install char-subets
 ````
 ``` js
