@@ -1,6 +1,6 @@
 {
   "name": "char-subsets",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Lists of characters of common subsets (like Google Fonts API uses them)",
   "license": "MIT",
   "repository": {
