@@ -6,7 +6,7 @@ Lists of characters of common subsets (like Google Fonts API uses them)
 Usage
 -----
 ``` sh
-npm install char-subets
+npm install char-subsets
 ````
 ``` js
 var subsets = require('char-subsets')();
